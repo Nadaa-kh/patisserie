@@ -13,10 +13,11 @@ nav a{
 }
 .pat{
     width: 500px;
-    height: auto;
+    height: 700px;
     border-radius: 50px;
     float: right;
     margin-top: -90px;
+    margin-top: -80px;
 }
 body{
     background: rgb(221, 178, 186);
@@ -35,8 +36,8 @@ h2{
 }
 #decou{
     padding: 5px;
-    margin-top: 135px;
-    margin-left: 150px;
+    margin-bottom: 140px;
+    margin-left: 190px;
     font-size: 15px;
     background-color: #d97a98;
     border-color: rgb(240, 172, 223);
