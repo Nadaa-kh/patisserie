@@ -11,6 +11,10 @@ nav a{
     margin-right: 40px;
     color: #5a1f36;
 }
+
+a:hover{
+    color: white;
+}
 .pat{
     width: 500px;
     height: 700px;
@@ -47,6 +51,7 @@ h2{
     background-color: #d97a98;
     border-color: rgb(240, 172, 223);
     box-shadow: 0 6px 20px rgba(156, 46, 70, 0.4);
+    cursor: pointer;
 }
 
 
@@ -172,7 +177,7 @@ header{
     top: 25px;
     left: 25px;
     right: 25px;
-    background-color: #d97a98;
+    background-color: #db8aa4;
     border-radius: 18px;
     position: fixed;
 }
